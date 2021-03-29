@@ -21,7 +21,35 @@ inquirer.prompt([
     message:"what is the usage of the app?",
     name:"usage"
 },
-
+{
+    type: "list",
+    name: "license",
+    message: "Chose the appropriate license for this project: ",
+    choices: [
+        "Apache",
+        "Academic",
+        "GNU",
+        "ISC",
+        "MIT",
+        "Mozilla",
+        "Open"
+    ]
+},
+{
+    type: "input",
+    name: "contributing",
+    message: "Who are the contributors of this projects?"
+},
+{
+    type: "input",
+    message: "Any questions?",
+    name: "questions"
+},
+{
+    type: "input",
+    message: "What is your github username?",
+    name: "Github"
+},
 ])
 .then(answers=>{
     console.log(answers);
@@ -36,8 +64,17 @@ return `
 # ${answers.projectName}
 
 ## ${answers.desc}
+
+## ${answers.installation}
+
+## ${answers.license}
+
+## ${answers.contributing}
+
+## ${answers.questions}
+
+## ${answers.Github}
 `
 }
-
 
 //THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
