@@ -1,27 +1,14 @@
 
-Name of the project
-# Professional readme generator
+# Readme Generator
 
+## An app to create a readme generator
 
-Description
-## A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the output directory
+## Node js insatlled npm install
 
-
-Installation
-## Need nodejs installed, npm init to generate jason packages and npm inquirer
-
-
-License
 ## MIT
-![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
 
-Contributor
-## There no contributor to this project at this time but anybody who wants to contribute can email me at bassabdoul7@gmail.com
+## NA
 
-Questions
-## 
+## Feel free to ask any question should you have one
 
-Github link
 ## github.com/ziz10
-
-_This README was generated with ❤️ by [README-generator](https://github.com/ziz10/readme-generator) 🔥🔥🔥_
