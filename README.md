@@ -6,4 +6,6 @@ This node js app is used to generate a professional readme
 ![Screenshot (46)](https://user-images.githubusercontent.com/77637862/112901655-e289a680-9099-11eb-85ee-96b416a5fa52.png)
 
 <!--Walkthrough video-->
+
 ![walkthrough video](https://drive.google.com/file/d/11NeNmD_eoZegelecmbGq_rGi5-iKFibr/view)
+
