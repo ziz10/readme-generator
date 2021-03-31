@@ -1,35 +1,43 @@
-# fghj
+# Professional readme generator
 ![github license](https://img.shields.io/badge/license-ISC)
 
 ## Project description 
 
-## fgjhdw
+An app implemented for markdown purposes
+
+## Table of contents
+
+[installation](#INSTALLATION)
+
+[usage](#USAGE)
+
+[License](#license)
 
 ## Installation
   
-## ghjwe
+need node js installed inquirer package as well
 
 ## License
 
 This project has been implemented under the license ISC
 
-## ISC
+ISC
   
 ## Contribution
 
 There is no contributor to this project
 
-## hjw
+NA
 
-##Questions
+## Questions
 
 Feel free to reach out to me at bassabdoul7@gmail.com should you have any questions
 
-## sjms
+ping me at bassabdoul7@gmail.com
   
 ## Github
 
 Github link github.com/ziz1o
 
-## vghjsa
+github.com/ziz10
   
