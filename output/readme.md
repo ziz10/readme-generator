@@ -1,14 +1,35 @@
+# fghj
+![github license](https://img.shields.io/badge/license-ISC)
 
-# Readme Generator
+## Project description 
 
-## An app to create a readme generator
+## fgjhdw
 
-## Node js insatlled npm install
+## Installation
+  
+## ghjwe
 
-## MIT
+## License
 
-## NA
+This project has been implemented under the license ISC
 
-## Feel free to ask any question should you have one
+## ISC
+  
+## Contribution
 
-## github.com/ziz10
+There is no contributor to this project
+
+## hjw
+
+##Questions
+
+Feel free to reach out to me at bassabdoul7@gmail.com should you have any questions
+
+## sjms
+  
+## Github
+
+Github link github.com/ziz1o
+
+## vghjsa
+  
