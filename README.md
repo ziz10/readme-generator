@@ -7,5 +7,5 @@ This node js app is used to generate a professional readme
 
 <!--Walkthrough video-->
 
-![walkthrough video] (https://drive.google.com/file/d/11NeNmD_eoZegelecmbGq_rGi5-iKFibr/view)
+![walkthrough video] (https://drive.google.com/file/d/17qvnxs39eY72JlBqrv9PIdO3Bd_CSCIt/view)
 
